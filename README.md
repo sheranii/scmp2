@@ -1,1 +1,3 @@
- SCMP2 Repository
+# SCMP2 Repository 
+
+This is an example to create a **merge conflict**.......
